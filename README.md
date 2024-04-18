@@ -1,15 +1,17 @@
 <h1 align="center">Hi ??, I'm Vishal sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- ?? I’m currently working on [Discord_clone](https://github.com/vsvishalsharma/Discord_clone)
+- 🔭 I’m currently working on [Discord_clone](https://github.com/vsvishalsharma/Discord_clone)
 
-- ?? I’m currently learning **React Native ,Docker,AWS**
+- 🌱 I’m currently learning **React Native ,Docker**
+- 🌱 I’m currently learning **React Native ,Docker,AWS**
 
-- ????? All of my projects are available at [https://github.com/vsvishalsharma](https://github.com/vsvishalsharma)
+- 👨‍💻 All of my projects are available at [https://github.com/vsvishalsharma](https://github.com/vsvishalsharma)
 
-- ?? Ask me about **Nextjs,Devops**
+- 💬 Ask me about **react,node,express,**
+- 💬 Ask me about **Nextjs,Devops**
 
-- ?? How to reach me **vsvishalsharma777@gmail.com**
+- 📫 How to reach me **vsvishalsharma777@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vsvishalsharma777) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vishal_shrmaa) 
 
