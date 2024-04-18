@@ -1,4 +1,4 @@
-<h1 align="center">Hi ??, I'm Vishal sharma</h1>
+<h1 align="center">Hi I'm Vishal sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on [Discord_clone](https://github.com/vsvishalsharma/Discord_clone)
