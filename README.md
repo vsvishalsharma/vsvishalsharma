@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vsvishalsharma](https://github.com/vsvishalsharma)
 
-- 💬 Ask me about **Nextjs,Devops**
+- 💬 Ask me about **Nextjs,Devops,AWS**
 
 - 📫 How to reach me **vsvishalsharma777@gmail.com**
 ## 🌐 Socials:
