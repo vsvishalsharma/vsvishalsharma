@@ -3,12 +3,10 @@
 
 - 🔭 I’m currently working on [Discord_clone](https://github.com/vsvishalsharma/Discord_clone)
 
-- 🌱 I’m currently learning **React Native ,Docker**
-- 🌱 I’m currently learning **React Native ,Docker,AWS**
+- 🌱 I’m currently learning **Kubernetes,Terafoorm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vsvishalsharma](https://github.com/vsvishalsharma)
 
-- 💬 Ask me about **react,node,express,**
 - 💬 Ask me about **Nextjs,Devops**
 
 - 📫 How to reach me **vsvishalsharma777@gmail.com**
