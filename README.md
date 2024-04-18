@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Discord_clone](https://github.com/vsvishalsharma/Discord_clone)
 
-- 🌱 I’m currently learning **Kubernetes,Terafoorm**
+- 🌱 I’m currently learning **Kubernetes,Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vsvishalsharma](https://github.com/vsvishalsharma)
 
