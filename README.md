@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes,Terraform**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/vsvishalsharma)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/vsvishalsharma?tab=repositories)
 
 - 💬 Ask me about **Nextjs,Devops,AWS**
 
